@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/az-devops-org/pipeline-java/_apis/build/status/gerax302.pipelines-java?branchName=master)](https://dev.azure.com/az-devops-org/pipeline-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
